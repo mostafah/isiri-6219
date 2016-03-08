@@ -30,6 +30,6 @@ ISIRI 6219 has a Persian name for each character. It would be nice to include th
 
 ## License
 
-Unfortunately, the standard doesn’t mention its license. Hence, I am not sure what if I can specify a license for this data extracted directly from it.
+Unfortunately, the standard doesn’t mention its license. Hence, I am not sure if I can specify a license for this data extracted directly from it.
 
 But since ISIRI 6219 is a national standard and is publicly available, you can probably use tis data however you like.
