@@ -1,0 +1,740 @@
+[
+  {
+    "code": "U+000A",
+    "name": "\u003ccontrol\u003e",
+    "category": "control",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+000D",
+    "name": "\u003ccontrol\u003e",
+    "category": "control",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0020",
+    "name": "SPACE",
+    "category": "common_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0021",
+    "name": "EXCLAMATION MARK",
+    "category": "common_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0028",
+    "name": "LEFT PARENTHESIS",
+    "category": "common_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0029",
+    "name": "RIGHT PARENTHESIS",
+    "category": "common_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+002A",
+    "name": "ASTERISK",
+    "category": "common_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+002B",
+    "name": "PLUS SIGN",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+002D",
+    "name": "HYPHEN-MINUS",
+    "category": "common_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+002E",
+    "name": "FULL STOP",
+    "category": "common_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+002F",
+    "name": "SOLIDUS",
+    "category": "common_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+003A",
+    "name": "COLON",
+    "category": "common_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+003C",
+    "name": "LESS-THAN SIGN",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+003D",
+    "name": "EQUALS SIGN",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+003E",
+    "name": "GREATER-THAN SIGN",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+005B",
+    "name": "LEFT SQUARE BRACKET",
+    "category": "common_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+005C",
+    "name": "REVERSE SOLIDUS",
+    "category": "common_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+005D",
+    "name": "RIGHT SQUARE BRACKET",
+    "category": "common_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+007B",
+    "name": "LEFT CURLY BRACKET",
+    "category": "common_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+007C",
+    "name": "VERTICAL LINE",
+    "category": "common_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+007D",
+    "name": "RIGHT CURLY BRACKET",
+    "category": "common_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+00AB",
+    "name": "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK",
+    "category": "common_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+00BB",
+    "name": "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK",
+    "category": "common_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+00D7",
+    "name": "MULTIPLICATION SIGN",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+00F7",
+    "name": "DIVISION SIGN",
+    "category": "math",
+    "class": "optional"
+  },
+  {
+    "code": "U+060C",
+    "name": "ARABIC COMMA",
+    "category": "persian_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+061B",
+    "name": "ARABIC SEMICOLON",
+    "category": "persian_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+061F",
+    "name": "ARABIC QUESTION MARK",
+    "category": "persian_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0621",
+    "name": "ARABIC LETTER HAMZA",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0622",
+    "name": "ARABIC LETTER ALEF WITH MADDA ABOVE",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0623",
+    "name": "ARABIC LETTER ALEF WITH HAMZA ABOVE",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0624",
+    "name": "ARABIC LETTER WAW WITH HAMZA ABOVE",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0625",
+    "name": "ARABIC LETTER ALEF WITH HAMZA BELOW",
+    "category": "subsidiary",
+    "class": "optional"
+  },
+  {
+    "code": "U+0626",
+    "name": "ARABIC LETTER YEH WITH HAMZA ABOVE",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0627",
+    "name": "ARABIC LETTER ALEF",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0628",
+    "name": "ARABIC LETTER BEH",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0629",
+    "name": "ARABIC LETTER TEH MARBUTA",
+    "category": "subsidiary",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+062A",
+    "name": "ARABIC LETTER TEH",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+062B",
+    "name": "ARABIC LETTER THEH",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+062C",
+    "name": "ARABIC LETTER JEEM",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+062D",
+    "name": "ARABIC LETTER HAH",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+062E",
+    "name": "ARABIC LETTER KHAH",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+062F",
+    "name": "ARABIC LETTER DAL",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0630",
+    "name": "ARABIC LETTER THAL",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0631",
+    "name": "ARABIC LETTER REH",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0632",
+    "name": "ARABIC LETTER ZAIN",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0633",
+    "name": "ARABIC LETTER SEEN",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0634",
+    "name": "ARABIC LETTER SHEEN",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0635",
+    "name": "ARABIC LETTER SAD",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0636",
+    "name": "ARABIC LETTER DAD",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0637",
+    "name": "ARABIC LETTER TAH",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0638",
+    "name": "ARABIC LETTER ZAH",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0639",
+    "name": "ARABIC LETTER AIN",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+063A",
+    "name": "ARABIC LETTER GHAIN",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0640",
+    "name": "ARABIC TATWEEL",
+    "category": "persian_punctuation",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0641",
+    "name": "ARABIC LETTER FEH",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0642",
+    "name": "ARABIC LETTER QAF",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0643",
+    "name": "ARABIC LETTER KAF",
+    "category": "subsidiary",
+    "class": "optional"
+  },
+  {
+    "code": "U+0644",
+    "name": "ARABIC LETTER LAM",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0645",
+    "name": "ARABIC LETTER MEEM",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0646",
+    "name": "ARABIC LETTER NOON",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0647",
+    "name": "ARABIC LETTER HEH",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0648",
+    "name": "ARABIC LETTER WAW",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0649",
+    "name": "ARABIC LETTER ALEF MAKSURA",
+    "category": "subsidiary",
+    "class": "optional"
+  },
+  {
+    "code": "U+064A",
+    "name": "ARABIC LETTER YEH",
+    "category": "subsidiary",
+    "class": "optional"
+  },
+  {
+    "code": "U+064B",
+    "name": "ARABIC FATHATAN",
+    "category": "diacritic",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+064C",
+    "name": "ARABIC DAMMATAN",
+    "category": "diacritic",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+064D",
+    "name": "ARABIC KASRATAN",
+    "category": "diacritic",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+064E",
+    "name": "ARABIC FATHA",
+    "category": "diacritic",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+064F",
+    "name": "ARABIC DAMMA",
+    "category": "diacritic",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0650",
+    "name": "ARABIC KASRA",
+    "category": "diacritic",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0651",
+    "name": "ARABIC SHADDA",
+    "category": "diacritic",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0652",
+    "name": "ARABIC SUKUN",
+    "category": "diacritic",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0653",
+    "name": "ARABIC MADDAH ABOVE",
+    "category": "diacritic",
+    "class": "optional"
+  },
+  {
+    "code": "U+0654",
+    "name": "ARABIC HAMZA ABOVE",
+    "category": "diacritic",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0655",
+    "name": "ARABIC HAMZA BELOW",
+    "category": "diacritic",
+    "class": "optional"
+  },
+  {
+    "code": "U+0660",
+    "name": "ARABIC-INDIC DIGIT ZERO",
+    "category": "",
+    "class": "forbidden"
+  },
+  {
+    "code": "U+0661",
+    "name": "ARABIC-INDIC DIGIT ONE",
+    "category": "",
+    "class": "forbidden"
+  },
+  {
+    "code": "U+0662",
+    "name": "ARABIC-INDIC DIGIT TWO",
+    "category": "",
+    "class": "forbidden"
+  },
+  {
+    "code": "U+0663",
+    "name": "ARABIC-INDIC DIGIT THREE",
+    "category": "",
+    "class": "forbidden"
+  },
+  {
+    "code": "U+0664",
+    "name": "ARABIC-INDIC DIGIT FOUR",
+    "category": "",
+    "class": "forbidden"
+  },
+  {
+    "code": "U+0665",
+    "name": "ARABIC-INDIC DIGIT FIVE",
+    "category": "",
+    "class": "forbidden"
+  },
+  {
+    "code": "U+0666",
+    "name": "ARABIC-INDIC DIGIT SIX",
+    "category": "",
+    "class": "forbidden"
+  },
+  {
+    "code": "U+0667",
+    "name": "ARABIC-INDIC DIGIT SEVEN",
+    "category": "",
+    "class": "forbidden"
+  },
+  {
+    "code": "U+0668",
+    "name": "ARABIC-INDIC DIGIT EIGHT",
+    "category": "",
+    "class": "forbidden"
+  },
+  {
+    "code": "U+0669",
+    "name": "ARABIC-INDIC DIGIT NINE",
+    "category": "",
+    "class": "forbidden"
+  },
+  {
+    "code": "U+066A",
+    "name": "ARABIC PERCENT SIGN",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+066B",
+    "name": "ARABIC DECIMAL SEPARATOR",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+066C",
+    "name": "ARABIC THOUSANDS SEPARATOR",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0670",
+    "name": "ARABIC LETTER SUPERSCRIPT ALEF",
+    "category": "diacritic",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0671",
+    "name": "ARABIC LETTER ALEF WASLA",
+    "category": "subsidiary",
+    "class": "optional"
+  },
+  {
+    "code": "U+067E",
+    "name": "ARABIC LETTER PEH",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0686",
+    "name": "ARABIC LETTER TCHEH",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+0698",
+    "name": "ARABIC LETTER JEH",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+06A9",
+    "name": "ARABIC LETTER KEHEH",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+06AF",
+    "name": "ARABIC LETTER GAF",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+06C0",
+    "name": "ARABIC LETTER HEH WITH YEH ABOVE",
+    "category": "",
+    "class": "forbidden"
+  },
+  {
+    "code": "U+06CC",
+    "name": "ARABIC LETTER FARSI YEH",
+    "category": "alphabet",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+06F0",
+    "name": "EXTENDED ARABIC-INDIC DIGIT ZERO",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+06F1",
+    "name": "EXTENDED ARABIC-INDIC DIGIT ONE",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+06F2",
+    "name": "EXTENDED ARABIC-INDIC DIGIT TWO",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+06F3",
+    "name": "EXTENDED ARABIC-INDIC DIGIT THREE",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+06F4",
+    "name": "EXTENDED ARABIC-INDIC DIGIT FOUR",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+06F5",
+    "name": "EXTENDED ARABIC-INDIC DIGIT FIVE",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+06F6",
+    "name": "EXTENDED ARABIC-INDIC DIGIT SIX",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+06F7",
+    "name": "EXTENDED ARABIC-INDIC DIGIT SEVEN",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+06F8",
+    "name": "EXTENDED ARABIC-INDIC DIGIT EIGHT",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+06F9",
+    "name": "EXTENDED ARABIC-INDIC DIGIT NINE",
+    "category": "math",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+200C",
+    "name": "ZERO WIDTH NON-JOINER",
+    "category": "control",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+200D",
+    "name": "ZERO WIDTH JOINER",
+    "category": "control",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+200E",
+    "name": "LEFT-TO-RIGHT MARK",
+    "category": "control",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+200F",
+    "name": "RIGHT-TO-LEFT MARK",
+    "category": "control",
+    "class": "mandatory"
+  },
+  {
+    "code": "U+2010",
+    "name": "HYPHEN",
+    "category": "common_punctuation",
+    "class": "optional"
+  },
+  {
+    "code": "U+2026",
+    "name": "HORIZONTAL ELLIPSIS",
+    "category": "common_punctuation",
+    "class": "optional"
+  },
+  {
+    "code": "U+2028",
+    "name": "LINE SEPARATOR",
+    "category": "control",
+    "class": "optional"
+  },
+  {
+    "code": "U+2029",
+    "name": "PARAGRAPH SEPARATOR",
+    "category": "control",
+    "class": "optional"
+  },
+  {
+    "code": "U+202A",
+    "name": "LEFT-TO-RIGHT EMBEDDING",
+    "category": "control",
+    "class": "optional"
+  },
+  {
+    "code": "U+202B",
+    "name": "RIGHT-TO-LEFT EMBEDDING",
+    "category": "control",
+    "class": "optional"
+  },
+  {
+    "code": "U+202C",
+    "name": "POP DIRECTIONAL FORMATTING",
+    "category": "control",
+    "class": "optional"
+  },
+  {
+    "code": "U+202D",
+    "name": "LEFT-TO-RIGHT OVERRIDE",
+    "category": "control",
+    "class": "optional"
+  },
+  {
+    "code": "U+202E",
+    "name": "RIGHT-TO-LEFT OVERRIDE",
+    "category": "control",
+    "class": "optional"
+  },
+  {
+    "code": "U+2212",
+    "name": "MINUS SIGN",
+    "category": "math",
+    "class": "optional"
+  },
+  {
+    "code": "U+FEFF",
+    "name": "ZERO WIDTH NO-BREAK SPACE",
+    "category": "control",
+    "class": "mandatory"
+  }
+]
